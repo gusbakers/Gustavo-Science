@@ -1,7 +1,5 @@
 # Gustavo-Science
 
-Gustavo Science's Project Portfolio
-
 Overview
 
 Welcome to my GitHub repository, where I showcase a diverse range of data science projects. My work spans various domains, including finance, healthcare, and business analytics. Each project is a testament to my expertise in data analysis, machine learning, and advanced statistical methods.
