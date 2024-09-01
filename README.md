@@ -1,6 +1,6 @@
 Overview
 
-I’m a data scientist with a Master’s degree in General Data Science, with a focus on Big Data, data cleaning, exploration, and advanced machine learning. My background gives me the flexibility to work in a wide range of fields—whether it’s finance, Wall Street, healthcare, business, or any other industry. I enjoy solving complex data problems, creating predictive models, and turning data into actionable insights .
+I’m a data scientist with a Master’s degree in General Data Science, with a focus on Big Data, data cleaning, exploration, and advanced machine learning. My background gives me the flexibility to work in a wide range of fields—whether it’s information technology ,finance , healthcare, business, or any other industry. I enjoy solving complex data problems, creating predictive models, and turning data into actionable insights .
 
 Welcome to my GitHub repository, where I showcase a diverse range of data science projects. My work spans various domains, including finance, healthcare, and business analytics. Each project showcases my expertise in data science , machine learning, and advanced statistical methods.
 
