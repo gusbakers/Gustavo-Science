@@ -8,7 +8,7 @@ Welcome to my GitHub repository, where I showcase a diverse range of data scienc
 
 NVIDIA Stock Prediction: A comprehensive project using machine learning algorithms and sentiment analysis to predict the stock price of NVIDIA. This project includes an ensemble model that achieved high accuracy, combining technical indicators with social media sentiment.
 
-Random forest in Titanic : An exploration of the Titanic dataset, using Random Forest and feature selection techniques to predict passenger survival. This project highlights the importance of feature engineering and model evaluation.
+Random Forest  in Titanic : An exploration of the Titanic dataset, using Random Forest and feature selection techniques to predict passenger survival. This project highlights the importance of feature engineering and model evaluation.
 
  Earthquake Prediction : Leveraging unlabeled data, this project aims to predict earthquake occurrences using clustering techniques and anomaly detection methods. It’s a unique approach to understanding seismic activity.
 
