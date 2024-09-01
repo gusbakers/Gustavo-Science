@@ -1,6 +1,6 @@
 Overview
 
-Welcome to my GitHub repository, where I showcase a diverse range of data science projects. My work spans various domains, including finance, healthcare, and business analytics. Each project is about my expertise in data science , machine learning, and advanced statistical methods.
+Welcome to my GitHub repository, where I showcase a diverse range of data science projects. My work spans various domains, including finance, healthcare, and business analytics. Each project showcases my expertise in data science , machine learning, and advanced statistical methods.
 
  Key Projects
 
