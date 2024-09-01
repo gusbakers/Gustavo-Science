@@ -1,8 +1,6 @@
-# Gustavo-Science
-
 Overview
 
-Welcome to my GitHub repository, where I showcase a diverse range of data science projects. My work spans various domains, including finance, healthcare, and business analytics. Each project is a testament to my expertise in data analysis, machine learning, and advanced statistical methods.
+Welcome to my GitHub repository, where I showcase a diverse range of data science projects. My work spans various domains, including finance, healthcare, and business analytics. Each project is about my expertise in data science , machine learning, and advanced statistical methods.
 
  Key Projects
 
@@ -54,5 +52,6 @@ I'm always open to collaboration. If you have ideas for improvements or new feat
 
 ## Contact
 If you have any questions, suggestions, or just want to connect, don’t hesitate to reach out at gaft-2727@outlook.com ]. I'm always happy to discuss data science, machine learning, and anything tech-related
+
 
 
