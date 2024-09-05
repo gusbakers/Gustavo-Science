@@ -44,7 +44,6 @@ For most projects, you can set up the environment by following these general ste
 
 Each project repository contains instructions on how to run the project, explore the code, and reproduce the results. In general, most projects can be executed with a simple Python command:
 
-Refer to the individual project documentation for detailed usage instructions.
 
 ## Contributing
 I'm always open to collaboration. If you have ideas for improvements or new features, feel free to fork the repository and create a pull request. Let’s build something amazing together!
